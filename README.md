@@ -58,4 +58,8 @@ New Repo
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sameem74/Gfg-Potd/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
