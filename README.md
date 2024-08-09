@@ -23,6 +23,7 @@ New Repo
 ## Array
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -49,6 +50,7 @@ New Repo
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -69,6 +71,7 @@ New Repo
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +79,7 @@ New Repo
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
