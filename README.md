@@ -60,6 +60,7 @@ New Repo
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ New Repo
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -110,6 +112,7 @@ New Repo
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
 |  |
@@ -143,4 +146,8 @@ New Repo
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
