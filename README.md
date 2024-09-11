@@ -150,4 +150,8 @@ New Repo
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/sameem74/Gfg-Potd/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
