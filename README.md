@@ -39,6 +39,7 @@ New Repo
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ New Repo
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ New Repo
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -79,6 +82,7 @@ New Repo
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
@@ -141,6 +145,7 @@ New Repo
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sameem74/Gfg-Potd/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +166,8 @@ New Repo
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sameem74/Gfg-Potd/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
