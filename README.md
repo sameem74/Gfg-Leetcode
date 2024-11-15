@@ -24,6 +24,7 @@ New Repo
 ## Stack
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ New Repo
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -55,6 +57,7 @@ New Repo
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -63,6 +66,7 @@ New Repo
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -189,4 +193,8 @@ New Repo
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
