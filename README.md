@@ -48,10 +48,12 @@ New Repo
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
