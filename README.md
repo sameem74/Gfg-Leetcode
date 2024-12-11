@@ -47,6 +47,7 @@ New Repo
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -54,6 +55,7 @@ New Repo
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ New Repo
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
@@ -81,6 +84,7 @@ New Repo
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
