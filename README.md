@@ -44,6 +44,7 @@ New Repo
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sameem74/Gfg-Potd/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -132,6 +133,7 @@ New Repo
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ New Repo
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sameem74/Gfg-Potd/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Binary Tree
 |  |
 | ------- |
