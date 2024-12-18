@@ -24,6 +24,7 @@ New Repo
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameem74/Gfg-Potd/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Array
@@ -36,6 +37,7 @@ New Repo
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameem74/Gfg-Potd/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -208,5 +210,6 @@ New Repo
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameem74/Gfg-Potd/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
