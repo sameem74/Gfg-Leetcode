@@ -17,6 +17,7 @@ New Repo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -33,6 +34,7 @@ New Repo
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
@@ -210,6 +212,7 @@ New Repo
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 ## Graph
 |  |
 | ------- |
