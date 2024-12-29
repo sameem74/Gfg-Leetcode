@@ -9,6 +9,7 @@ New Repo
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -21,6 +22,7 @@ New Repo
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sameem74/Gfg-Potd/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
@@ -47,6 +49,7 @@ New Repo
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
