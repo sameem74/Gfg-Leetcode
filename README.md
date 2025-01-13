@@ -19,6 +19,7 @@ New Repo
 | [2691-count-vowel-strings-in-ranges](https://github.com/sameem74/Gfg-Potd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,12 +119,14 @@ New Repo
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sameem74/Gfg-Potd/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
