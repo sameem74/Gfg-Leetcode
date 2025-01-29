@@ -168,6 +168,7 @@ New Repo
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameem74/Gfg-Potd/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -178,6 +179,7 @@ New Repo
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sameem74/Gfg-Potd/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sameem74/Gfg-Potd/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -187,6 +189,7 @@ New Repo
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
@@ -238,6 +241,7 @@ New Repo
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Bit Manipulation
 |  |
