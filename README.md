@@ -14,6 +14,7 @@ New Repo
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sameem74/Gfg-Potd/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sameem74/Gfg-Potd/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sameem74/Gfg-Potd/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -39,6 +40,7 @@ New Repo
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameem74/Gfg-Potd/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sameem74/Gfg-Potd/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +168,7 @@ New Repo
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sameem74/Gfg-Potd/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Depth-First Search
 |  |
