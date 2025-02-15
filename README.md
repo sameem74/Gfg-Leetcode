@@ -155,6 +155,7 @@ New Repo
 | ------- |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +255,7 @@ New Repo
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
 | ------- |
