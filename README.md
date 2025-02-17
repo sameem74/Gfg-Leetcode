@@ -9,6 +9,7 @@ New Repo
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
+| [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sameem74/Gfg-Potd/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -124,6 +125,7 @@ New Repo
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
+| [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sameem74/Gfg-Potd/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -134,6 +136,7 @@ New Repo
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -256,6 +259,7 @@ New Repo
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sameem74/Gfg-Potd/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
