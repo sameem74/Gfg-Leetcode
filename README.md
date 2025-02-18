@@ -18,6 +18,7 @@ New Repo
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sameem74/Gfg-Potd/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sameem74/Gfg-Potd/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sameem74/Gfg-Potd/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sameem74/Gfg-Potd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -42,6 +43,7 @@ New Repo
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sameem74/Gfg-Potd/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sameem74/Gfg-Potd/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +149,7 @@ New Repo
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sameem74/Gfg-Potd/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -261,6 +264,7 @@ New Repo
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sameem74/Gfg-Potd/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sameem74/Gfg-Potd/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Graph
 |  |
