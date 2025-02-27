@@ -32,6 +32,7 @@ New Repo
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sameem74/Gfg-Potd/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/sameem74/Gfg-Potd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/sameem74/Gfg-Potd/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/sameem74/Gfg-Potd/tree/master/1196-filling-bookcase-shelves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sameem74/Gfg-Potd/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -60,6 +61,7 @@ New Repo
 | [0780-max-chunks-to-make-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/sameem74/Gfg-Potd/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/sameem74/Gfg-Potd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sameem74/Gfg-Potd/tree/master/1025-minimum-cost-for-tickets) |
@@ -134,6 +136,7 @@ New Repo
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/sameem74/Gfg-Potd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
 | [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
