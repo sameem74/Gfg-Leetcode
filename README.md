@@ -85,6 +85,7 @@ New Repo
 | [2691-count-vowel-strings-in-ranges](https://github.com/sameem74/Gfg-Potd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sameem74/Gfg-Potd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/sameem74/Gfg-Potd/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sameem74/Gfg-Potd/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -109,6 +110,7 @@ New Repo
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sameem74/Gfg-Potd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ New Repo
 | [2107-find-unique-binary-string](https://github.com/sameem74/Gfg-Potd/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sameem74/Gfg-Potd/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sameem74/Gfg-Potd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sameem74/Gfg-Potd/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
