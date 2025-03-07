@@ -183,6 +183,7 @@ New Repo
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sameem74/Gfg-Potd/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sameem74/Gfg-Potd/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sameem74/Gfg-Potd/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sameem74/Gfg-Potd/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
@@ -330,4 +331,8 @@ New Repo
 | [0780-max-chunks-to-make-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sameem74/Gfg-Potd/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/sameem74/Gfg-Potd/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
