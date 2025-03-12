@@ -86,6 +86,7 @@ New Repo
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sameem74/Gfg-Potd/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sameem74/Gfg-Potd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -125,6 +126,7 @@ New Repo
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sameem74/Gfg-Potd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3427-special-array-ii) |
@@ -168,6 +170,7 @@ New Repo
 | [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
