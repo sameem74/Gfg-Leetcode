@@ -100,6 +100,7 @@ New Repo
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sameem74/Gfg-Potd/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -261,6 +262,7 @@ New Repo
 | [0854-making-a-large-island](https://github.com/sameem74/Gfg-Potd/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/sameem74/Gfg-Potd/tree/master/0999-regions-cut-by-slashes) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -327,6 +329,7 @@ New Repo
 | [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,6 +338,7 @@ New Repo
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sameem74/Gfg-Potd/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sameem74/Gfg-Potd/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
 |  |
 | ------- |
