@@ -42,6 +42,7 @@ New Repo
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sameem74/Gfg-Potd/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sameem74/Gfg-Potd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sameem74/Gfg-Potd/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sameem74/Gfg-Potd/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
@@ -328,6 +329,7 @@ New Repo
 | ------- |
 | [0684-redundant-connection](https://github.com/sameem74/Gfg-Potd/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
@@ -358,4 +360,12 @@ New Repo
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/sameem74/Gfg-Potd/tree/master/2610-closest-prime-numbers-in-range) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
