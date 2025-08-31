@@ -61,6 +61,7 @@ New Repo
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/sameem74/Gfg-Potd/tree/master/0368-largest-divisible-subset) |
@@ -174,6 +175,7 @@ New Repo
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sameem74/Gfg-Potd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -238,6 +240,7 @@ New Repo
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
 | [0854-making-a-large-island](https://github.com/sameem74/Gfg-Potd/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sameem74/Gfg-Potd/tree/master/0921-spiral-matrix-iii) |
@@ -342,6 +345,7 @@ New Repo
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sameem74/Gfg-Potd/tree/master/1160-letter-tile-possibilities) |
