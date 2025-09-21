@@ -86,6 +86,7 @@ New Repo
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sameem74/Gfg-Potd/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sameem74/Gfg-Potd/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/sameem74/Gfg-Potd/tree/master/1923-sentence-similarity-iii) |
+| [2023-design-movie-rental-system](https://github.com/sameem74/Gfg-Potd/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/sameem74/Gfg-Potd/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -184,6 +185,7 @@ New Repo
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sameem74/Gfg-Potd/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sameem74/Gfg-Potd/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/sameem74/Gfg-Potd/tree/master/1502-construct-k-palindrome-strings) |
+| [2023-design-movie-rental-system](https://github.com/sameem74/Gfg-Potd/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sameem74/Gfg-Potd/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sameem74/Gfg-Potd/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sameem74/Gfg-Potd/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -315,6 +317,7 @@ New Repo
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sameem74/Gfg-Potd/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sameem74/Gfg-Potd/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2023-design-movie-rental-system](https://github.com/sameem74/Gfg-Potd/tree/master/2023-design-movie-rental-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ New Repo
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sameem74/Gfg-Potd/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2023-design-movie-rental-system](https://github.com/sameem74/Gfg-Potd/tree/master/2023-design-movie-rental-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sameem74/Gfg-Potd/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -400,4 +404,8 @@ New Repo
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Ordered Set
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/sameem74/Gfg-Potd/tree/master/2023-design-movie-rental-system) |
 <!---LeetCode Topics End-->
