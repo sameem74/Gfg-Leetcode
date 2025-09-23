@@ -6,6 +6,7 @@ New Repo
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/sameem74/Gfg-Potd/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
@@ -133,6 +134,7 @@ New Repo
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/sameem74/Gfg-Potd/tree/master/0165-compare-version-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sameem74/Gfg-Potd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sameem74/Gfg-Potd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
