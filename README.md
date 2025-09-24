@@ -7,6 +7,7 @@ New Repo
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sameem74/Gfg-Potd/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameem74/Gfg-Potd/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/sameem74/Gfg-Potd/tree/master/0664-strange-printer) |
@@ -179,6 +180,7 @@ New Repo
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameem74/Gfg-Potd/tree/master/0166-fraction-to-recurring-decimal) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sameem74/Gfg-Potd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sameem74/Gfg-Potd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -227,6 +229,7 @@ New Repo
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/sameem74/Gfg-Potd/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/sameem74/Gfg-Potd/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/sameem74/Gfg-Potd/tree/master/0368-largest-divisible-subset) |
 | [0870-magic-squares-in-grid](https://github.com/sameem74/Gfg-Potd/tree/master/0870-magic-squares-in-grid) |
