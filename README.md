@@ -34,6 +34,7 @@ New Repo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/sameem74/Gfg-Potd/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/sameem74/Gfg-Potd/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0494-target-sum) |
@@ -65,6 +66,7 @@ New Repo
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameem74/Gfg-Potd/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sameem74/Gfg-Potd/tree/master/0040-combination-sum-ii) |
+| [0120-triangle](https://github.com/sameem74/Gfg-Potd/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/sameem74/Gfg-Potd/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/sameem74/Gfg-Potd/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sameem74/Gfg-Potd/tree/master/0416-partition-equal-subset-sum) |
