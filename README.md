@@ -242,6 +242,7 @@ New Repo
 | [2649-count-total-number-of-colored-cells](https://github.com/sameem74/Gfg-Potd/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sameem74/Gfg-Potd/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-water-bottles-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -265,6 +266,7 @@ New Repo
 | [2265-partition-array-according-to-given-pivot](https://github.com/sameem74/Gfg-Potd/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3336-water-bottles-ii) |
 ## Depth-First Search
 |  |
 | ------- |
