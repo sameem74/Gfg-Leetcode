@@ -119,6 +119,7 @@ New Repo
 | [3001-apply-operations-to-maximize-score](https://github.com/sameem74/Gfg-Potd/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sameem74/Gfg-Potd/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sameem74/Gfg-Potd/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sameem74/Gfg-Potd/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -263,6 +264,7 @@ New Repo
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -302,6 +304,7 @@ New Repo
 | [2564-most-profitable-path-in-a-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sameem74/Gfg-Potd/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -346,6 +349,7 @@ New Repo
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sameem74/Gfg-Potd/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Tree
 |  |
@@ -420,6 +424,7 @@ New Repo
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sameem74/Gfg-Potd/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -432,4 +437,8 @@ New Repo
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
