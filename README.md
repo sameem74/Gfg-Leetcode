@@ -116,6 +116,7 @@ New Repo
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sameem74/Gfg-Potd/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sameem74/Gfg-Potd/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sameem74/Gfg-Potd/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sameem74/Gfg-Potd/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -135,6 +136,7 @@ New Repo
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sameem74/Gfg-Potd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sameem74/Gfg-Potd/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sameem74/Gfg-Potd/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sameem74/Gfg-Potd/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sameem74/Gfg-Potd/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
@@ -205,6 +207,7 @@ New Repo
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sameem74/Gfg-Potd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sameem74/Gfg-Potd/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sameem74/Gfg-Potd/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sameem74/Gfg-Potd/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
