@@ -31,6 +31,7 @@ New Repo
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameem74/Gfg-Potd/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ New Repo
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameem74/Gfg-Potd/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ New Repo
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sameem74/Gfg-Potd/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sameem74/Gfg-Potd/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameem74/Gfg-Potd/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +234,7 @@ New Repo
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sameem74/Gfg-Potd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sameem74/Gfg-Potd/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sameem74/Gfg-Potd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameem74/Gfg-Potd/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Database
 |  |
 | ------- |
@@ -444,4 +448,8 @@ New Repo
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sameem74/Gfg-Potd/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sameem74/Gfg-Potd/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
